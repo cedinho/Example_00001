@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_spiner">SpinerActivity</string>
+
+    <string-array name="colores">
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Amarrillo</item>
+        <item>Negro</item>
+        <item>Blanco</item>
+    </string-array>
+    <string name="title_activity_radio_b">RadioBActivity</string>
+
+</resources>
